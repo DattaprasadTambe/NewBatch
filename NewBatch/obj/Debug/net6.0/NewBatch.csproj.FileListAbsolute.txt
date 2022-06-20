@@ -1,0 +1,15 @@
+C:\Users\Goku\source\repos\NewBatch\NewBatch\bin\Debug\net6.0\NewBatch.exe
+C:\Users\Goku\source\repos\NewBatch\NewBatch\bin\Debug\net6.0\NewBatch.deps.json
+C:\Users\Goku\source\repos\NewBatch\NewBatch\bin\Debug\net6.0\NewBatch.runtimeconfig.json
+C:\Users\Goku\source\repos\NewBatch\NewBatch\bin\Debug\net6.0\NewBatch.dll
+C:\Users\Goku\source\repos\NewBatch\NewBatch\bin\Debug\net6.0\NewBatch.pdb
+C:\Users\Goku\source\repos\NewBatch\NewBatch\obj\Debug\net6.0\NewBatch.csproj.AssemblyReference.cache
+C:\Users\Goku\source\repos\NewBatch\NewBatch\obj\Debug\net6.0\NewBatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goku\source\repos\NewBatch\NewBatch\obj\Debug\net6.0\NewBatch.AssemblyInfoInputs.cache
+C:\Users\Goku\source\repos\NewBatch\NewBatch\obj\Debug\net6.0\NewBatch.AssemblyInfo.cs
+C:\Users\Goku\source\repos\NewBatch\NewBatch\obj\Debug\net6.0\NewBatch.csproj.CoreCompileInputs.cache
+C:\Users\Goku\source\repos\NewBatch\NewBatch\obj\Debug\net6.0\NewBatch.dll
+C:\Users\Goku\source\repos\NewBatch\NewBatch\obj\Debug\net6.0\refint\NewBatch.dll
+C:\Users\Goku\source\repos\NewBatch\NewBatch\obj\Debug\net6.0\NewBatch.pdb
+C:\Users\Goku\source\repos\NewBatch\NewBatch\obj\Debug\net6.0\NewBatch.genruntimeconfig.cache
+C:\Users\Goku\source\repos\NewBatch\NewBatch\obj\Debug\net6.0\ref\NewBatch.dll
